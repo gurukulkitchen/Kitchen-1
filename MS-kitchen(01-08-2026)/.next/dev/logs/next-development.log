@@ -1,0 +1,10 @@
+[00:00:20.723] Server  WARN    ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[00:00:25.125] Server  LOG     ✓ Ready in 16.9s
+[00:00:28.654] Server  LOG     ○ Compiling /login ...
+[00:00:48.035] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:12.946] Server  LOG     MongoDB connected successfully
+[00:01:13.749] Server  LOG     MongoDB connected successfully
+[00:01:13.752] Server  LOG     MongoDB connected successfully
+[00:01:15.035] Browser WARN    Image with src "/uploads/Vector.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:15.035] Browser WARN    Image with src "/uploads/Tulsi 1 (1).png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:01:16.026] Browser WARN    Image with src "/uploads/Untitled-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
